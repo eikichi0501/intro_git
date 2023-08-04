@@ -2,4 +2,3 @@ gitの練習
 変更します。
 add
 commitします。
-git rm
