@@ -2,5 +2,4 @@ gitの練習
 変更します。
 add
 commitします。
-git rm
-git status
+git diff
